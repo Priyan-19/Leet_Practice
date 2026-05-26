@@ -15,4 +15,9 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Priyan-19/Leet_Practice/tree/master/2235-add-two-integers) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Priyan-19/Leet_Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Priyan-19/Leet_Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
