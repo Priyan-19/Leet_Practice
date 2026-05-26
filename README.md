@@ -14,10 +14,19 @@ Leetcode Practice Repo
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Priyan-19/Leet_Practice/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Priyan-19/Leet_Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Priyan-19/Leet_Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
