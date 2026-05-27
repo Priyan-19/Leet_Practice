@@ -14,6 +14,7 @@ Leetcode Practice Repo
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyan-19/Leet_Practice/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
