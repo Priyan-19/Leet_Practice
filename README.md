@@ -7,10 +7,12 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +20,7 @@ Leetcode Practice Repo
 | [0009-palindrome-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyan-19/Leet_Practice/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Priyan-19/Leet_Practice/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Priyan-19/Leet_Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -42,4 +45,16 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
