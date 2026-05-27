@@ -8,6 +8,7 @@ Leetcode Practice Repo
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
