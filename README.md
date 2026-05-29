@@ -20,6 +20,7 @@ Leetcode Practice Repo
 | [0007-reverse-integer](https://github.com/Priyan-19/Leet_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyan-19/Leet_Practice/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
@@ -42,6 +43,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Priyan-19/Leet_Practice/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Leetcode Practice Repo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
