@@ -52,6 +52,7 @@ Leetcode Practice Repo
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
@@ -72,4 +73,8 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
