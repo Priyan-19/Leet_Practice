@@ -25,6 +25,7 @@ Leetcode Practice Repo
 | [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Priyan-19/Leet_Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Priyan-19/Leet_Practice/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Priyan-19/Leet_Practice/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Priyan-19/Leet_Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -47,6 +48,7 @@ Leetcode Practice Repo
 | [0050-powx-n](https://github.com/Priyan-19/Leet_Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Priyan-19/Leet_Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Priyan-19/Leet_Practice/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Leetcode Practice Repo
 | ------- |
 | [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Priyan-19/Leet_Practice/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
