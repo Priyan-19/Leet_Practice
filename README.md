@@ -9,6 +9,7 @@ Leetcode Practice Repo
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -77,4 +78,5 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
