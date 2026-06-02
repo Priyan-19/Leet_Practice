@@ -7,6 +7,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
 ## Hash Table
@@ -62,4 +63,8 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
