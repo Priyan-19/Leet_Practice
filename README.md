@@ -7,6 +7,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Priyan-19/Leet_Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ Leetcode Practice Repo
 | [0007-reverse-integer](https://github.com/Priyan-19/Leet_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyan-19/Leet_Practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Priyan-19/Leet_Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Priyan-19/Leet_Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
