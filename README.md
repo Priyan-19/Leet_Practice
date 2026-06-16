@@ -26,6 +26,7 @@ Leetcode Practice Repo
 | [0066-plus-one](https://github.com/Priyan-19/Leet_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyan-19/Leet_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Priyan-19/Leet_Practice/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ Leetcode Practice Repo
 | ------- |
 | [0067-add-binary](https://github.com/Priyan-19/Leet_Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
