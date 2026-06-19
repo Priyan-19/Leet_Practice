@@ -7,6 +7,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Priyan-19/Leet_Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@ Leetcode Practice Repo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Priyan-19/Leet_Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
@@ -101,4 +103,8 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Priyan-19/Leet_Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
