@@ -72,6 +72,7 @@ Leetcode Practice Repo
 | [0171-excel-sheet-column-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Priyan-19/Leet_Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ Leetcode Practice Repo
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Priyan-19/Leet_Practice/tree/master/0392-is-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Priyan-19/Leet_Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
@@ -104,6 +106,7 @@ Leetcode Practice Repo
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Priyan-19/Leet_Practice/tree/master/0392-is-subsequence) |
 ## Enumeration
 |  |
 | ------- |
