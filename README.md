@@ -13,6 +13,7 @@ Leetcode Practice Repo
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
+| [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Leetcode Practice Repo
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Priyan-19/Leet_Practice/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Priyan-19/Leet_Practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Priyan-19/Leet_Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
@@ -86,6 +88,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
