@@ -9,6 +9,7 @@ Leetcode Practice Repo
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Priyan-19/Leet_Practice/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Priyan-19/Leet_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
@@ -90,6 +91,7 @@ Leetcode Practice Repo
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyan-19/Leet_Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@ Leetcode Practice Repo
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyan-19/Leet_Practice/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0344-reverse-string) |
