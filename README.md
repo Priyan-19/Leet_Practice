@@ -14,6 +14,7 @@ Leetcode Practice Repo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Priyan-19/Leet_Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
@@ -22,6 +23,7 @@ Leetcode Practice Repo
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Leetcode Practice Repo
 | ------- |
 | [0069-sqrtx](https://github.com/Priyan-19/Leet_Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -95,6 +98,7 @@ Leetcode Practice Repo
 | [0015-3sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Priyan-19/Leet_Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -112,6 +116,7 @@ Leetcode Practice Repo
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Priyan-19/Leet_Practice/tree/master/0392-is-subsequence) |
 ## Enumeration
 |  |
