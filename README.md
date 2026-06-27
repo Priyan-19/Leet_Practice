@@ -22,6 +22,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Priyan-19/Leet_Practice/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -29,6 +30,7 @@ Leetcode Practice Repo
 | ------- |
 | [0007-reverse-integer](https://github.com/Priyan-19/Leet_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Priyan-19/Leet_Practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Priyan-19/Leet_Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Priyan-19/Leet_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyan-19/Leet_Practice/tree/master/0067-add-binary) |
@@ -70,6 +72,7 @@ Leetcode Practice Repo
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Priyan-19/Leet_Practice/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Priyan-19/Leet_Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Priyan-19/Leet_Practice/tree/master/0168-excel-sheet-column-title) |
