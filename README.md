@@ -17,6 +17,7 @@ Leetcode Practice Repo
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyan-19/Leet_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Priyan-19/Leet_Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
 ## Hash Table
@@ -82,6 +83,7 @@ Leetcode Practice Repo
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Priyan-19/Leet_Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyan-19/Leet_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
