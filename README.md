@@ -14,6 +14,7 @@ Leetcode Practice Repo
 | [0075-sort-colors](https://github.com/Priyan-19/Leet_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Priyan-19/Leet_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@ Leetcode Practice Repo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Priyan-19/Leet_Practice/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Priyan-19/Leet_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
