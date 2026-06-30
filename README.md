@@ -31,6 +31,7 @@ Leetcode Practice Repo
 | [0012-integer-to-roman](https://github.com/Priyan-19/Leet_Practice/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyan-19/Leet_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Leetcode Practice Repo
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Priyan-19/Leet_Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Priyan-19/Leet_Practice/tree/master/0412-fizz-buzz) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyan-19/Leet_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyan-19/Leet_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
@@ -145,4 +147,8 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Priyan-19/Leet_Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyan-19/Leet_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
