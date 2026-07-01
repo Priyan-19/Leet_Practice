@@ -9,5 +9,4 @@ class Solution:
             c=f+s
             f=s
             s=c
-        te=c
-        return te
+        return c
