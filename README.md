@@ -42,6 +42,7 @@ Leetcode Practice Repo
 | [0066-plus-one](https://github.com/Priyan-19/Leet_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyan-19/Leet_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Priyan-19/Leet_Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Priyan-19/Leet_Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Priyan-19/Leet_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
@@ -122,6 +123,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Priyan-19/Leet_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyan-19/Leet_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Priyan-19/Leet_Practice/tree/master/0392-is-subsequence) |
@@ -162,4 +164,8 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Priyan-19/Leet_Practice/tree/master/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyan-19/Leet_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
