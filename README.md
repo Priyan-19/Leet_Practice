@@ -83,6 +83,7 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Priyan-19/Leet_Practice/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/Priyan-19/Leet_Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Priyan-19/Leet_Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Priyan-19/Leet_Practice/tree/master/0168-excel-sheet-column-title) |
