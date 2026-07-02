@@ -16,6 +16,7 @@ Leetcode Practice Repo
 | [0152-maximum-product-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyan-19/Leet_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Priyan-19/Leet_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Priyan-19/Leet_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Priyan-19/Leet_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ Leetcode Practice Repo
 | ------- |
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Priyan-19/Leet_Practice/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Priyan-19/Leet_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Priyan-19/Leet_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +121,7 @@ Leetcode Practice Repo
 | ------- |
 | [0015-3sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Priyan-19/Leet_Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Priyan-19/Leet_Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
@@ -151,6 +154,7 @@ Leetcode Practice Repo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Priyan-19/Leet_Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Priyan-19/Leet_Practice/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -172,4 +176,8 @@ Leetcode Practice Repo
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyan-19/Leet_Practice/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyan-19/Leet_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
