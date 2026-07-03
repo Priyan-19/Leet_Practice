@@ -33,6 +33,7 @@ Leetcode Practice Repo
 | [0001-two-sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Priyan-19/Leet_Practice/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Priyan-19/Leet_Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Priyan-19/Leet_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -50,6 +51,7 @@ Leetcode Practice Repo
 | [0070-climbing-stairs](https://github.com/Priyan-19/Leet_Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Priyan-19/Leet_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Priyan-19/Leet_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyan-19/Leet_Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
@@ -142,6 +144,7 @@ Leetcode Practice Repo
 | [0015-3sum](https://github.com/Priyan-19/Leet_Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Priyan-19/Leet_Practice/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyan-19/Leet_Practice/tree/master/0345-reverse-vowels-of-a-string) |
