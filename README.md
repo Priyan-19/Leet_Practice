@@ -21,6 +21,7 @@ Leetcode Practice Repo
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyan-19/Leet_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Priyan-19/Leet_Practice/tree/master/0704-binary-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyan-19/Leet_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Priyan-19/Leet_Practice/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -124,6 +125,7 @@ Leetcode Practice Repo
 | [0169-majority-element](https://github.com/Priyan-19/Leet_Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyan-19/Leet_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Priyan-19/Leet_Practice/tree/master/0414-third-maximum-number) |
 | [3024-type-of-triangle](https://github.com/Priyan-19/Leet_Practice/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
